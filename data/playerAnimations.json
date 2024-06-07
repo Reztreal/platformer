@@ -1,0 +1,44 @@
+{
+    "animations" : [
+        {
+            "name" : "idle",
+            "imagePath" : "./CharacterAnimations/Idle.png",
+            "frameCount" : 4,
+            "frameDuration" : 200,
+            "widthMultiplier" : 1,
+            "heightMultiplier" : 1
+        },
+        {
+            "name" : "run",
+            "imagePath" : "./CharacterAnimations/Run.png",
+            "frameCount" : 8,
+            "frameDuration" : 200,
+            "widthMultiplier" : 1,
+            "heightMultiplier" : 1
+        },
+        {
+            "name" : "jump",
+            "imagePath" : "./CharacterAnimations/Jump.png",
+            "frameCount" : 15,
+            "frameDuration" : 200,
+            "widthMultiplier" : 1,
+            "heightMultiplier" : 1
+        },
+        {
+            "name" : "attack",
+            "imagePath" : "./CharacterAnimations/Attack.png",
+            "frameCount" : 8,
+            "frameDuration" : 200,
+            "widthMultiplier" : 1,
+            "heightMultiplier" : 1
+        },
+        {
+            "name" : "dead",
+            "imagePath" : "./CharacterAnimations/Dead.png",
+            "frameCount" : 8,
+            "frameDuration" : 200,
+            "widthMultiplier" : 1,
+            "heightMultiplier" : 1
+        }
+    ]
+}
