@@ -135,7 +135,7 @@ void drawGame()
             fill(255);
             textSize(50);
             textAlign(CENTER);
-            text("Jump on platforms to reach the end by normally or with reversed gravity!", 100, height - 300);
+            text("Jump on platforms to reach the end normally or with reversed gravity!", 100, height - 300);
         }
 
         if (currentLevel == 3) 
